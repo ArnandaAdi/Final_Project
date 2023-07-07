@@ -5,7 +5,7 @@ import pandas as pd
 import streamlit as st
 # import matplotlib
 # import scipy
-# import sklearn
+import sklearn
 # import seaborn as sns
 import os
 
