@@ -22,11 +22,27 @@ DATASET : [HOLIDAY PACKAGE PREDICTION](https://www.kaggle.com/datasets/susant4le
 ## **💻 STRUKTUR REPOSITORY 💻**
 
 ```html
-Holiday Package Prediction/ |- dataset/ |- Travel.csv |- images/ |- banner.png
-|- Edgar.png |- Faris.png |- Jannisah.png |- Jodhi.png |- Nanda.png |-
-sendhy.png |- Teguh.png |- Vionella.png |- app.py |- holiday.pkl |- LICENSE |-
-model_rf.sav |- Pandas_Lovers_Holiday_Package_Prediction.ipynb |- README.md |-
-requirements.txt |- style.css
+Holiday Package Prediction/ 
+    dataset/ 
+        Travel.csv 
+    images/ 
+        banner.png
+    |- Edgar.png 
+    |- Faris.png 
+    |- Jannisah.png 
+    |- Jodhi.png 
+    |- Nanda.png 
+    |- sendhy.png 
+    |- Teguh.png 
+    |- Vionella.png 
+|- app.py 
+|- holiday.pkl 
+|- LICENSE 
+|- model_rf.sav 
+|- Pandas_Lovers_Holiday_Package_Prediction.ipynb 
+|- README.md 
+|- requirements.txt 
+|- style.css
 ```
 
 ### **💡 Demo App 💡**
